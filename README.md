@@ -134,4 +134,4 @@ mysql -u root -p cus_retention < sql/analysis/01_revenue_leakage.sql
 
 **Raghav Sharma**  
 Aspiring Data / Business Analyst  
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) • [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://linkedin.com/in/raghav-sharma-a76bb922a) • [GitHub](https://github.com/Raghav20-cyber)
