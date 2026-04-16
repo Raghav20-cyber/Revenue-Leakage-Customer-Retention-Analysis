@@ -22,7 +22,7 @@ The business was experiencing revenue leakage due to aggressive discounting, but
 
 | Executive Overview | Revenue Leakage |
 |---|---|
-| ![Executive Overview](Dashboard/executive_overview.png) | ![Revenue Leakage](Dashboard/revenue_leakage.png) |
+| ![Executive Overview](Dashboard/Executive_Overview.png) | ![Revenue Leakage](Dashboard/Revenue_Leakage.png) |
 
 > Built in Power BI — 2 pages, 8+ visuals, fully interactive with slicers for Category, City, and Date.
 
